@@ -1,0 +1,31 @@
+############
+## Project
+############
+
+# Library folder
+lib/
+
+# Configuration file
+causeofwhy.ini
+
+# Pickled files
+*.pickle
+
+# Log files
+log_training.txt
+log_training.txt.arff
+
+
+#############
+## Python
+#############
+
+*.py[co]
+
+
+#############
+## Sublime
+#############
+
+*.sublime-project
+*.sublime-workspace
